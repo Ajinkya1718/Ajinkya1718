@@ -49,7 +49,7 @@ I believe in continuous learning and setting clear milestones. Here's what drive
 ## 💌 Let’s Connect  
 
 📧 Email: [ajinkyashelke1000@gmail.com](mailto:ajinkyashelke1000@gmail.com)  
-🌐 LinkedIn: [Ajinkya Shelke](https://www.linkedin.com/in/yourlinkedinprofile)  
+🌐 LinkedIn: [Ajinkya Shelke](https://www.linkedin.com/in/ajinkya-shelke-825619332/)  
 
 I invite you to explore my repositories and projects, where I have poured my passion, expertise, and curiosity. Together, let's create and innovate!  
 
