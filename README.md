@@ -29,13 +29,12 @@ VS Code, Git, GitHub
 I believe in continuous learning and setting clear milestones. Here's what drives me:  
 
 **Short-Term Goals:**  
-- Expand my proficiency in **AI** and **data-driven solutions**.  
+- Expand my proficiency in **Python** and **AI**.  
 - Contribute to **open-source projects** and build collaborative coding experiences.  
 
 **Long-Term Goals:**  
-- Develop scalable, efficient, and innovative solutions that leave a lasting impact.  
-- Explore the integration of **Blockchain** with databases to revolutionize data security and transparency.  
-- Become a trusted expert in **AI-powered systems** and **cutting-edge technologies**.  
+- Improve my Coding Skills and make more collaborative projects
+- Develop scalable, efficient, and innovative solutions that leave a lasting impact.   
 
 ---
 
